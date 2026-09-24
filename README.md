@@ -5,12 +5,12 @@ Social listening with AI theme detection, sentiment and competitor share-of-voic
 **Live app:** https://ziontechgroup.com/social-listening-radar/
 
 ## Features
-- Brand/keyword mention tracking
-- AI theme clustering and sentiment trends
-- Competitor share-of-voice benchmarking
+- Cross-platform mention monitoring
+- AI theme clustering and sentiment
+- Competitor share-of-voice tracking
 
 ## Zion App Network
 Part of the [Zion App Network](https://ziontechgroup.com/apps/).
-Related apps: [Social Listening](https://github.com/Zion-support/zion-ai-social-listening) · [Social Manager](https://github.com/Zion-support/ai-social-manager) · [Caption Optimizer](https://github.com/Zion-support/ai-caption-optimizer) · [Referral Engine AI](https://github.com/Zion-support/referral-engine-ai)
+Related: [AI Social Listening](https://github.com/Zion-support/zion-ai-social-listening) · [Social Manager](https://github.com/Zion-support/ai-social-manager) · [Newsletter Growth Copilot](https://github.com/Zion-support/newsletter-growth-copilot) · [Caption Optimizer](https://github.com/Zion-support/ai-caption-optimizer)
 
 © 2026 Zion Tech Group
